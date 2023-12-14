@@ -27,7 +27,7 @@ Ignite your IT career with this beginner-level program, designed to ease you int
 
 The courses enlisted as follows:
 
-- [ ] **C1-Crash Course on Python**
+- [x] **C1-Crash Course on Python**
 - [ ] **C2-Using Python to Interact with the Operating System**
 - [ ] **C3-Introduction to Git and Github**
 - [ ] **C4-Troubleshooting and Debugging Techniques**
